@@ -1,4 +1,5 @@
 # Build-Ecommerce-Website-With-HTML-CSS-JavaScript
+![Image](https://github.com/user-attachments/assets/49208249-3294-4bd5-bba3-aac6119fb008)
 
 ## Why you need this course?
 Creating an e-commerce website using HTML, CSS, and JavaScript can be a challenging and rewarding project that allows you to learn and develop a wide range of skills. Some of the things you might learn while creating an e-commerce website include:
